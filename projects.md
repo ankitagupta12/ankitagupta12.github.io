@@ -18,7 +18,7 @@ Kafka-retryable builds application level handling of failures during consumption
 
 This is built for the use-case where any changes to data persisted via [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html) needs to be published as messages to Kafka. This is useful in building asynchronous, event-driven systems where updates to database objects trigger downstream consumers.
 
-### [Dedup-Builds](https://github.com/ankitagupta12/dedup-builds)
+### [Dedup-Builds (2016)](https://github.com/ankitagupta12/dedup-builds)
 
 Dedup-builds is a script that calls Travis CI and Drone APIs to cancel duplicate builds, except the build for the latest commit, for a particular pull request.
 
