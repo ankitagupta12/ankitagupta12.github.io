@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: /projects
 ---
 
 Some of the projects (mostly ruby gems) I have worked on are available publicly. These were largely inspired by problems I saw at work, that also seemed like more broadly applicable to other situations. So I ended up generalizing solutions to these problems where possible.
