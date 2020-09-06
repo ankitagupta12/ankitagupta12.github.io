@@ -2,8 +2,8 @@
 title:               Ankita Gupta
 tagline:             ''
 description:         ''
-url:                 https://ankita.tech
-baseurl:             ''
+url:                 'https://ankita.tech'
+baseurl:             'https://ankita.tech'
 paginate:            5
 permalink:           pretty
 
